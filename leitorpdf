@@ -7,8 +7,3 @@ def ler_pdf(caminho_arquivo):
         for pagina in leitor_pdf.pages:
             texto_bruto += pagina.extract_text()
     return texto_bruto
-# Exemplo de uso
-caminho_arquivo = "C:/Users/24.00752-8/Downloads/sample-1.pdf"
-texto_extraido = ler_pdf(caminho_arquivo)
-
-print(texto_extraido)
