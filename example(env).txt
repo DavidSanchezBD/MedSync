@@ -1,1 +1,7 @@
-OPENAI_API_KEY=""
+# backend/.env
+
+# Chaves de API
+OPENAI_API_KEY="sua-chave-aqui"
+
+# Conexão com o Banco de Dados Relacional
+DATABASE_URL="postgresql://usuario:senhaSecreta123@ep-nome-legal-123456.us-east-2.aws.neon.tech/neondb?sslmode=require"
