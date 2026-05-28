@@ -1,7 +1,13 @@
 openai
 python-dotenv
-pandas
-streamlit
-pydantic
 chromadb
 pypdf2
+fastapi
+psycopg2-binary
+uvicorn
+python-multipart
+bcrypt>=4.0.1
+python-jose[cryptography]
+pydantic[email]
+pandas
+

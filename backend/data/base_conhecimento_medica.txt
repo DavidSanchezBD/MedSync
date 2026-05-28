@@ -1,0 +1,81 @@
+Marcador: Ácido fólico. Valores normais de referência: 1,8 a 9 ng/mL (Convencional) ou 4,1 a 20,4 nmol/L (SI).
+Marcador: Ácido úrico. Valores normais de referência: 3 a 7 mg/dL (Convencional) ou 178,5 a 416,5 µmol/L (SI).
+Marcador: ACTH (hormônio adrenocorticotrópico). Valores normais de referência: 10 a 60 pg/mL (Convencional) ou 2.2 a 13,2 pmol/L (SI).
+Marcador: Albumina. Valores normais de referência: 3,5 a 5,5 g/dL (Convencional) ou 35 a 55 g/L (SI).
+Marcador: Aldosterona. Valores normais de referência: Em pé: 7 a 20 ng/dL, Deitado: 2 a 5 ng/dL (Convencional) ou Em pé: 194 a 554 pmol/L, Deitado: 55 a 138 pmol/L (SI).
+Marcador: Alfa-1 antitripsina. Valores normais de referência: 150 a 350 mg/dL (Convencional) ou 27,6 a 64,5 µmol/L (SI).
+Marcador: Alfafetoproteína. Valores normais de referência: 0 a 10 ng/dL (Convencional) ou 0 a 10 pg/L (SI).
+Marcador: Amilase. Valores normais de referência: 25 a 125 U/L (Convencional) ou 0,42 a 2,1 µKat/L (SI).
+Marcador: Aminotransferase, alanina (ALT ou TGP). Valores normais de referência: 10 a 40 U/L (Convencional) ou 0,17 a 0,68 µKat/L (SI).
+Marcador: Aminotransferase, aspartato (AST ou TGO). Valores normais de referência: 10 a 40 U/L (Convencional) ou 0,17 a 0,68 µKat/L (SI).
+Marcador: Amônia. Valores normais de referência: 40 a 70 µg/dL (Convencional) ou 23,5 a 41,1 µmol/L (SI).
+Marcador: Anti-TPO. Valores normais de referência: < 35 UI/mL (Convencional) ou < 35 kUI/L (SI).
+Marcador: Bilirrubina Total. Valores normais de referência: 0,1 a 1,2 mg/dL (Convencional) ou 1,7 a 20,5 µmol/L (SI).
+Marcador: CA 19-9. Valores normais de referência: < 37 U/mL (Convencional) ou < 220 kU/L (SI).
+Marcador: CA 125. Valores normais de referência: < 35 U/mL (Convencional) ou < 120 kU/L (SI).
+Marcador: Cálcio. Valores normais de referência: 8,6 a 10,2 mg/dL (Convencional) ou 2,2 a 2,6 mmol/L (SI).
+Marcador: Cálcio ionizado. Valores normais de referência: 4,5 a 4,9 mg/dL (Convencional) ou 1,12 a 1,23 mmol/L (SI).
+Marcador: Capacidade total de ligação do ferro. Valores normais de referência: 250 a 310 µg/dL (Convencional) ou 44,8 a 55,5 µmol/L (SI).
+Marcador: CEA. Valores normais de referência: < 5 ng/mL (Convencional) ou < 16,5 nmol/L (SI).
+Marcador: Cloreto. Valores normais de referência: 98 a 106 mEq/L (Convencional) ou 98 a 106 mmol/L (SI).
+Marcador: Colesterol HDL. Valores normais de referência: Mulheres: < 50 mg/dL, Homens: < 40 mg/dL (Convencional) ou Mulheres: < 1,3 mmol/L, Homens: < 1 mmol/L (SI).
+Marcador: Colesterol LDL. Valores normais de referência: Ótimo: < 100 mg/dL, Quase ideal: 100 a 129 mg/dL, Moderado alto: 130 a 159 mg/dL, Alto: 160 a 189 mg/dL, Muito alto: > 189 mg/dL (Convencional).
+Marcador: Colesterol Total. Valores normais de referência: Desejável: < 200 mg/dL, Moderado alto: 200 a 239 mg/dL, Alto: > 239 mg/dL (Convencional).
+Marcador: Complemento. Valores normais de referência: C3: 100 a 233 mg/dL, C4: 14 a 48 mg/dL, CH50: 110 a 190 U/mL (Convencional).
+Marcador: Cortisol. Valores normais de referência: 6 a 23 µg/dL (Convencional) ou 138 a 690 nmol/L (SI).
+Marcador: CK (Creatina Quinase). Valores normais de referência: Homens: 55 a 170 U/L, Mulheres: 30 a 135 U/L (Convencional).
+Marcador: Creatinina. Valores normais de referência: 0,7 a 1,3 mg/dL (Convencional) ou 61,9 a 115 µmol/L (SI).
+Marcador: D-dímero. Valores normais de referência: < 0.5 µg/mL ou < 0.5 mg/L (Convencional) ou < 3 nmol/L (SI).
+Marcador: DHEA-S. Valores normais de referência: Mulheres: 35 a 430 µg/dL, Homens: 80 a 560 µg/dL (Convencional).
+Marcador: Enzima conversora de angiotensina. Valores normais de referência: 8 a 53 U/L (Convencional).
+Marcador: Estradiol (E2). Valores normais de referência: Fase folicular: 30 a 120 pg/mL (Convencional) ou Fase folicular: 110 a 441 pmol/L (SI).
+Marcador: Ferritina. Valores normais de referência: Mulheres: 24 a 307 ng/mL, Homens: 24 a 336 ng/mL (Convencional).
+Marcador: Ferro. Valores normais de referência: 50 a 150 µg/dL (Convencional) ou 9 a 27 µmol/L (SI).
+Marcador: Fosfatase alcalina. Valores normais de referência: 30 a 120 U/L (Convencional).
+Marcador: Fósforo. Valores normais de referência: 3 a 4,5 mg/dL (Convencional) ou 0,97 a 1,45 mmol/L (SI).
+Marcador: Glicemia em jejum. Valores normais de referência: 70 a 99 mg/dL (Convencional) ou 3,9 a 5,5 mmol/L (SI).
+Marcador: Hematócrito. Valores normais de referência: Mulheres: 37 a 47%, Homens: 42 a 50% (Convencional).
+Marcador: Hemoglobina. Valores normais de referência: Mulheres: 12 a 16 g/dL, Homens: 14 a 18 g/dL (Convencional).
+Marcador: Hemoglobina A1C (HbA1c). Valores normais de referência: 4 a 5,6% (Convencional) ou 20,2 a 37,7 mmol/mol (SI).
+Marcador: Homocisteína. Valores normais de referência: < 15 µmol/L (Convencional).
+Marcador: Hormônio de crescimento (GH). Valores normais de referência: 0 a 3 ng/mL (Convencional) ou 0 a 9 mU/L (SI).
+Marcador: Hormônio folículo-estimulante (FSH). Valores normais de referência: Homens: 1 a 12 mIU/mL, Mulheres (fase folicular): 2 a 10 mIU/mL (Convencional).
+Marcador: Hormônio luteinizante (LH). Valores normais de referência: Homens: 1,5 a 9,3 mIU/mL, Mulheres (fase folicular): 1,9 a 12,5 mIU/mL (Convencional).
+Marcador: Hormônio paratireoideano (PTH). Valores normais de referência: 10 a 65 pg/mL (Convencional) ou 1 a 6,5 pmol/L (SI).
+Marcador: Imunoglobulinas. Valores normais de referência: IgA: 90 a 325 mg/dL, IgE: < 380 UI/mL, IgG: 800 a 1500 mg/dL, IgM: 45 a 150 mg/dL (Convencional).
+Marcador: Imunoglobulinas, cadeias leves livres. Valores normais de referência: Kappa: 3,3 a 19,4 mg/L, Lambda: 5,7 a 26,3 mg/L, Relação Kappa/Lambda: 0,26 a 1,65 (Convencional).
+Marcador: Lactato. Valores normais de referência: Arterial: < 12 mg/dL, Venoso: 6 a 16 mg/dL (Convencional) ou Arterial: < 1,3 mmol/L, Venoso: 0,7 a 1,8 mmol/L (SI).
+Marcador: LDH. Valores normais de referência: 80 a 225 U/L (Convencional) ou 1,3 a 3,8 µkat/L (SI).
+Marcador: Lipase. Valores normais de referência: 10 a 140 U/L (Convencional) ou 0,2 a 2,3 µkat/L (SI).
+Marcador: Lipoproteína (a). Valores normais de referência: < 30 mg/dL (Convencional) ou < 0,8 mmol/L (SI).
+Marcador: Lítio. Valores normais de referência: Terapêutico: 0,6 a 1,2 mEq/L, Nível tóxico: > 2 mEq/L (Convencional).
+Marcador: Magnésio. Valores normais de referência: 1,6 a 2,6 mEq/L (Convencional) ou 0,66 a 1,07 mmol/L (SI).
+Marcador: NT-proBNP. Valores normais de referência: < 50 anos: < 125 pg/mL; 50–75 anos: < 300 pg/mL; > 75 anos: até 450–900 pg/mL (Convencional).
+Marcador: Plaquetas. Valores normais de referência: 150.000 a 450.000/µL (Convencional) ou 150 a 450 x 10^9/L (SI).
+Marcador: Potássio. Valores normais de referência: 3,5 a 5,0 mEq/L (Convencional) ou 3,5 a 5,0 mmol/L (SI).
+Marcador: Progesterona. Valores normais de referência: Fase lútea: 5 a 20 ng/mL (Convencional) ou Fase lútea: 15,9 a 63,6 nmol/L (SI).
+Marcador: Prolactina. Valores normais de referência: < 20 ng/mL (Convencional) ou < 20 µg/L (SI).
+Marcador: Proteína C-reativa (PCR). Valores normais de referência: < 0,9 mg/dL (Convencional) ou < 76,3 nmol/L (SI).
+Marcador: PCR ultrassensível (us-CRP). Valores normais de referência: < 1,0 mg/L (Convencional) ou < 9,5 nmol/L (SI).
+Marcador: PSA total. Valores normais de referência: < 4,0 ng/mL (Convencional) ou < 105 kU/L (SI).
+Marcador: PTHi. Valores normais de referência: 10 a 65 pg/mL (Convencional) ou 10 a 65 ng/L (SI).
+Marcador: Renina plasmática. Valores normais de referência: 0,2 a 1,6 ng/mL/h (Convencional) ou 0,056 a 0,444 nmol/L/h (SI).
+Marcador: Saturação de oxigênio arterial. Valores normais de referência: ≥ 95% (Convencional).
+Marcador: Saturação de transferrina. Valores normais de referência: 20 a 50% (Convencional).
+Marcador: Sódio. Valores normais de referência: 136 a 145 mEq/L (Convencional) ou 136 a 145 mmol/L (SI).
+Marcador: T3 (Triiodotironina). Valores normais de referência: Total: 80 a 180 ng/dL, Reverso: 20 a 40 ng/dL, Livre: 2,3 a 4,2 pg/mL (Convencional).
+Marcador: T4 (Tiroxina). Valores normais de referência: Livre: 0,8 a 1,8 ng/dL, Total: 5 a 12 µg/dL (Convencional).
+Marcador: Tempo de tromboplastina parcial ativada (TTPa). Valores normais de referência: 25 a 35 segundos (Convencional).
+Marcador: Testosterona. Valores normais de referência: Mulheres: 18 a 54 ng/dL, Homens: 291 a 1100 ng/dL (Convencional) ou Mulheres: 0,6 a 1,9 nmol/L, Homens: 10,1 a 38,2 nmol/L (SI).
+Marcador: TRAb (anticorpos contra receptor de TSH). Valores normais de referência: < 1,75 U/L (Convencional).
+Marcador: Transferrina. Valores normais de referência: 200 a 400 mg/dL (Convencional) ou 26 a 50 µmol/L (SI).
+Marcador: Troponina I. Valores normais de referência: ≤ 0,04 ng/mL (Convencional) ou ≤ 0,04 µg/L (SI).
+Marcador: Troponina T. Valores normais de referência: ≤ 0,01 ng/mL (Convencional) ou ≤ 0,01 µg/L (SI).
+Marcador: TSH. Valores normais de referência: 0.5 a 4 µU/mL (Convencional) ou 0.5 a 4 mU/L (SI).
+Marcador: Ureia. Valores normais de referência: 8 a 20 mg/dL (Convencional) ou 2,9 a 7,1 mmol/L (SI).
+Marcador: Vitamina A. Valores normais de referência: 32,5 a 78 µg/dL (Convencional) ou 1,1 a 2,7 µmol/L (SI).
+Marcador: Vitamina B12. Valores normais de referência: 200 a 800 pg/mL (Convencional) ou 147,5 a 590 pmol/L (SI).
+Marcador: Vitamina D. Valores normais de referência: 1,25-dihidroxivitamina D: 15 a 60 pg/mL, 25-hidroxivitamina D: 30 a 60 ng/mL (Convencional).
+Marcador: Vitamina E. Valores normais de referência: 5,5 a 17 mg/L (Convencional) ou 12,8 a 39,5 µmol/L (SI).
+Marcador: VHS (velocidade de hemossedimentação). Valores normais de referência: Mulheres: 0 a 20 mm/hora, Homens: 0 a 15 mm/hora (Convencional).
+Marcador: Zinco. Valores normais de referência: 75 a 140 µg/dL (Convencional) ou 11,5 a 21,4 µmol/L (SI).
