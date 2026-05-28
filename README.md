@@ -174,6 +174,3 @@ Este projeto foi desenvolvido com dedicação como o **Desafio Final** da discip
 * **Mateus Yuji Ohira**
 
 ---
-<p align="center">
-  Desenvolvido com 💙 por mentes curiosas para revolucionar o acesso à informação de saúde.
-</p>
