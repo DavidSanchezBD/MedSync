@@ -108,7 +108,7 @@ MedSync/
    ```bash
    git clone https://github.com/DavidSanchezBD/MedSync.git
    cd MedSync
-   ```
+   ```"
 
 2. **Configurar o Ambiente Virtual (venv)**:
    ```bash
@@ -136,8 +136,6 @@ MedSync/
    ```env
    OPENAI_API_KEY=sua-chave-da-openai-aqui
    DATABASE_URL=postgresql://usuario:senha@seu-host-neon.tech/neondb?sslmode=require
-   JWT_SECRET=sua-chave-secreta-jwt-aqui
-   JWT_EXPIRE_HOURS=72
    ```
 
 ---
