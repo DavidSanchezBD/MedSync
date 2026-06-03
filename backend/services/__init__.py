@@ -1,1 +1,1 @@
-"""Serviços de negócio (auth, perfil, etc.)."""
+# services package

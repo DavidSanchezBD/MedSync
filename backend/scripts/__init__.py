@@ -1,1 +1,0 @@
-"""Scripts utilitários do backend."""

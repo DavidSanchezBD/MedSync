@@ -1,1 +1,1 @@
-"""Acesso ao PostgreSQL (Neon)."""
+# database package

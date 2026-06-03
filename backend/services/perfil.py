@@ -1,68 +1,53 @@
+import uuid
+
 from database.db import obter_conexao
 
 
-def buscar_perfil(usuario_id: str) -> dict | None:
+def salvar_perfil(usuario_id: str, dados: dict) -> dict:
     with obter_conexao() as conn:
         with conn.cursor() as cur:
             cur.execute(
-                """
-                SELECT idade, genero_biologico, peso_kg, altura_cm,
-                       condicoes_previas, historico_familiar
-                FROM perfis_saude
-                WHERE usuario_id = %s
-                ORDER BY id DESC
-                LIMIT 1
-                """,
-                (usuario_id,),
+                "SELECT id FROM perfis_saude WHERE usuario_id = %s", (usuario_id,)
             )
-            row = cur.fetchone()
-            return dict(row) if row else None
+            existente = cur.fetchone()
 
-
-def salvar_perfil(usuario_id: str, dados) -> dict:
-    estilo_vida = f"IMC contextual — peso {dados.peso_kg}kg, altura {dados.altura_cm}cm"
-    with obter_conexao() as conn:
-        with conn.cursor() as cur:
-            cur.execute("DELETE FROM perfis_saude WHERE usuario_id = %s", (usuario_id,))
-            try:
+            if existente:
                 cur.execute(
                     """
-                    INSERT INTO perfis_saude (
-                        usuario_id, idade, genero_biologico, peso_kg, altura_cm,
-                        condicoes_previas, historico_familiar, estilo_vida
-                    ) VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
-                    RETURNING idade, genero_biologico, peso_kg, altura_cm,
-                              condicoes_previas, historico_familiar
+                    UPDATE perfis_saude
+                    SET idade = %s, genero_biologico = %s, peso_kg = %s,
+                        altura_cm = %s, condicoes_previas = %s, historico_familiar = %s
+                    WHERE usuario_id = %s
                     """,
                     (
+                        dados.get("idade"),
+                        dados.get("genero_biologico"),
+                        dados.get("peso_kg"),
+                        dados.get("altura_cm"),
+                        dados.get("condicoes_previas"),
+                        dados.get("historico_familiar"),
                         usuario_id,
-                        dados.idade,
-                        dados.genero_biologico,
-                        dados.peso_kg,
-                        dados.altura_cm,
-                        dados.condicoes_previas,
-                        dados.historico_familiar,
-                        estilo_vida,
                     ),
                 )
-            except Exception:
+            else:
+                perfil_id = str(uuid.uuid4())
                 cur.execute(
                     """
-                    INSERT INTO perfis_saude (
-                        usuario_id, idade, genero_biologico,
-                        condicoes_previas, historico_familiar, estilo_vida
-                    ) VALUES (%s, %s, %s, %s, %s, %s)
-                    RETURNING idade, genero_biologico, condicoes_previas,
-                              historico_familiar, estilo_vida
+                    INSERT INTO perfis_saude
+                        (id, usuario_id, idade, genero_biologico, peso_kg,
+                         altura_cm, condicoes_previas, historico_familiar)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s, %s)
                     """,
                     (
+                        perfil_id,
                         usuario_id,
-                        dados.idade,
-                        dados.genero_biologico,
-                        dados.condicoes_previas or f"Peso {dados.peso_kg}kg",
-                        dados.historico_familiar,
-                        f"{estilo_vida}; altura {dados.altura_cm}cm",
+                        dados.get("idade"),
+                        dados.get("genero_biologico"),
+                        dados.get("peso_kg"),
+                        dados.get("altura_cm"),
+                        dados.get("condicoes_previas"),
+                        dados.get("historico_familiar"),
                     ),
                 )
-            perfil = cur.fetchone()
-    return dict(perfil)
+
+    return {"mensagem": "Perfil salvo com sucesso."}

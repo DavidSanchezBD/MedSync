@@ -1,1 +1,0 @@
-"""Endpoints agrupados por domínio."""
